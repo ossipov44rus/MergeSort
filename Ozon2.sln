@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ozon2", "Ozon2.csproj", "{45A0AF20-37AD-47B9-BC61-4B700E4A101E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A0AF20-37AD-47B9-BC61-4B700E4A101E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A0AF20-37AD-47B9-BC61-4B700E4A101E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A0AF20-37AD-47B9-BC61-4B700E4A101E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A0AF20-37AD-47B9-BC61-4B700E4A101E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCB9BB1-C7B5-4067-B450-2F7FF7B48F4A}
+	EndGlobalSection
+EndGlobal
